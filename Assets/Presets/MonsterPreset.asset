@@ -1,0 +1,223 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e535a9e03cd29384a80ecb2f2c09bf98, type: 3}
+  m_Name: MonsterPreset
+  m_EditorClassIdentifier: 
+  monsters:
+  - ID: 1
+    Name: ent1
+    Hp: 200
+    Atk: 10
+    Def: 0
+    Exp: 5
+    Gold: 1
+    PrefabName: Ent1
+  - ID: 2
+    Name: ent2
+    Hp: 300
+    Atk: 15
+    Def: 0
+    Exp: 6
+    Gold: 2
+    PrefabName: Ent2
+  - ID: 3
+    Name: ent3
+    Hp: 400
+    Atk: 20
+    Def: 0
+    Exp: 7
+    Gold: 3
+    PrefabName: Ent3
+  - ID: 4
+    Name: ent4
+    Hp: 500
+    Atk: 25
+    Def: 0
+    Exp: 8
+    Gold: 4
+    PrefabName: Ent4
+  - ID: 5
+    Name: entking
+    Hp: 1000
+    Atk: 50
+    Def: 10
+    Exp: 50
+    Gold: 50
+    PrefabName: EntKing
+  - ID: 6
+    Name: goblin1
+    Hp: 750
+    Atk: 35
+    Def: 0
+    Exp: 10
+    Gold: 10
+    PrefabName: Goblin1
+  - ID: 7
+    Name: goblin2
+    Hp: 1000
+    Atk: 45
+    Def: 0
+    Exp: 12
+    Gold: 20
+    PrefabName: Goblin2
+  - ID: 8
+    Name: goblin3
+    Hp: 1250
+    Atk: 55
+    Def: 0
+    Exp: 14
+    Gold: 30
+    PrefabName: Goblin3
+  - ID: 9
+    Name: goblin4
+    Hp: 1500
+    Atk: 65
+    Def: 0
+    Exp: 16
+    Gold: 40
+    PrefabName: Goblin4
+  - ID: 10
+    Name: goblinking
+    Hp: 3000
+    Atk: 100
+    Def: 20
+    Exp: 100
+    Gold: 500
+    PrefabName: GoblinKing
+  - ID: 11
+    Name: orc1
+    Hp: 2000
+    Atk: 80
+    Def: 0
+    Exp: 20
+    Gold: 50
+    PrefabName: Orc1
+  - ID: 12
+    Name: orc2
+    Hp: 2500
+    Atk: 95
+    Def: 0
+    Exp: 24
+    Gold: 65
+    PrefabName: Orc2
+  - ID: 13
+    Name: orc3
+    Hp: 3000
+    Atk: 110
+    Def: 0
+    Exp: 28
+    Gold: 80
+    PrefabName: Orc3
+  - ID: 14
+    Name: orc4
+    Hp: 3500
+    Atk: 125
+    Def: 0
+    Exp: 32
+    Gold: 95
+    PrefabName: Orc4
+  - ID: 15
+    Name: orcking
+    Hp: 7000
+    Atk: 200
+    Def: 40
+    Exp: 200
+    Gold: 750
+    PrefabName: OrcKing
+  - ID: 16
+    Name: shield1
+    Hp: 4500
+    Atk: 150
+    Def: 0
+    Exp: 50
+    Gold: 110
+    PrefabName: Shield1
+  - ID: 17
+    Name: shield2
+    Hp: 5500
+    Atk: 175
+    Def: 0
+    Exp: 60
+    Gold: 120
+    PrefabName: Shield2
+  - ID: 18
+    Name: shield3
+    Hp: 6500
+    Atk: 200
+    Def: 0
+    Exp: 70
+    Gold: 130
+    PrefabName: Shield3
+  - ID: 19
+    Name: shield4
+    Hp: 7500
+    Atk: 250
+    Def: 0
+    Exp: 80
+    Gold: 140
+    PrefabName: Shield4
+  - ID: 20
+    Name: shieldking
+    Hp: 15000
+    Atk: 500
+    Def: 100
+    Exp: 500
+    Gold: 1000
+    PrefabName: ShieldKing
+  - ID: 21
+    Name: skull1
+    Hp: 9500
+    Atk: 400
+    Def: 0
+    Exp: 100
+    Gold: 200
+    PrefabName: Skull1
+  - ID: 22
+    Name: skull2
+    Hp: 11500
+    Atk: 500
+    Def: 0
+    Exp: 150
+    Gold: 220
+    PrefabName: Skull2
+  - ID: 23
+    Name: skull3
+    Hp: 13500
+    Atk: 600
+    Def: 0
+    Exp: 200
+    Gold: 240
+    PrefabName: Skull3
+  - ID: 24
+    Name: skull4
+    Hp: 15500
+    Atk: 700
+    Def: 0
+    Exp: 250
+    Gold: 260
+    PrefabName: Skull4
+  - ID: 25
+    Name: skullking
+    Hp: 40000
+    Atk: 1500
+    Def: 300
+    Exp: 1000
+    Gold: 2000
+    PrefabName: SkullKing
+  - ID: 0
+    Name: 
+    Hp: 0
+    Atk: 0
+    Def: 0
+    Exp: 0
+    Gold: 0
+    PrefabName: 

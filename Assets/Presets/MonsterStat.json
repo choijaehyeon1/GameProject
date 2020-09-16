@@ -1,0 +1,239 @@
+{
+  "monsters": [
+    {
+      "ID": 1,
+      "Name": "ent1",
+      "Hp": 200,
+      "Atk": 10,
+      "Def": 0,
+      "Exp": 5,
+      "Gold": 1
+    },
+
+    {
+      "ID": 2,
+      "Name": "ent2",
+      "Hp": 300,
+      "Atk": 15,
+      "Def": 0,
+      "Exp": 6,
+      "Gold": 2
+    },
+    {
+      "ID": 3,
+      "Name": "ent3",
+      "Hp": 400,
+      "Atk": 20,
+      "Def": 0,
+      "Exp": 7,
+      "Gold": 3
+    },
+    {
+      "ID": 4,
+      "Name": "ent4",
+      "Hp": 500,
+      "Atk": 25,
+      "Def": 0,
+      "Exp": 8,
+      "Gold": 4
+    },
+    {
+      "ID": 5,
+      "Name": "entking",
+      "Hp": 1000,
+      "Atk": 50,
+      "Def": 10,
+      "Exp": 50,
+      "Gold": 50
+    },
+    {
+      "ID": 6,
+      "Name": "goblin1",
+      "Hp": 750,
+      "Atk": 35,
+      "Def": 0,
+      "Exp": 10,
+      "Gold": 10
+    },
+    {
+      "ID": 7,
+      "Name": "goblin2",
+      "Hp": 1000,
+      "Atk": 45,
+      "Def": 0,
+      "Exp": 12,
+      "Gold": 20
+    },
+    {
+      "ID": 8,
+      "Name": "goblin3",
+      "Hp": 1250,
+      "Atk": 55,
+      "Def": 0,
+      "Exp": 14,
+      "Gold": 30
+    },
+    {
+      "ID": 9,
+      "Name": "goblin4",
+      "Hp": 1500,
+      "Atk": 65,
+      "Def": 0,
+      "Exp": 16,
+      "Gold": 40
+    },
+    {
+      "ID": 10,
+      "Name": "goblinking",
+      "Hp": 3000,
+      "Atk": 100,
+      "Def": 20,
+      "Exp": 100,
+      "Gold": 500
+    },
+    {
+      "ID": 11,
+      "Name": "orc1",
+      "Hp": 2000,
+      "Atk": 80,
+      "Def": 0,
+      "Exp": 20,
+      "Gold": 50
+    },
+    {
+      "ID": 12,
+      "Name": "orc2",
+      "Hp": 2500,
+      "Atk": 95,
+      "Def": 0,
+      "Exp": 24,
+      "Gold": 65
+    },
+    {
+      "ID": 13,
+      "Name": "orc3",
+      "Hp": 3000,
+      "Atk": 110,
+      "Def": 0,
+      "Exp": 28,
+      "Gold": 80
+    },
+    {
+      "ID": 14,
+      "Name": "orc4",
+      "Hp": 3500,
+      "Atk": 125,
+      "Def": 0,
+      "Exp": 32,
+      "Gold": 95
+    },
+    {
+      "ID": 15,
+      "Name": "orcking",
+      "Hp": 7000,
+      "Atk": 200,
+      "Def": 40,
+      "Exp": 200,
+      "Gold": 750
+    },
+    {
+      "ID": 16,
+      "Name": "shield1",
+      "Hp": 4500,
+      "Atk": 150,
+      "Def": 0,
+      "Exp": 50,
+      "Gold": 110
+    },
+    {
+      "ID": 17,
+      "Name": "shield2",
+      "Hp": 5500,
+      "Atk": 175,
+      "Def": 0,
+      "Exp": 60,
+      "Gold": 120
+    },
+    {
+      "ID": 18,
+      "Name": "shield3",
+      "Hp": 6500,
+      "Atk": 200,
+      "Def": 0,
+      "Exp": 70,
+      "Gold": 130
+    },
+    {
+      "ID": 19,
+      "Name": "shield4",
+      "Hp": 7500,
+      "Atk": 250,
+      "Def": 0,
+      "Exp": 80,
+      "Gold": 140
+    },
+    {
+      "ID": 20,
+      "Name": "shieldking",
+      "Hp": 15000,
+      "Atk": 500,
+      "Def": 100,
+      "Exp": 500,
+      "Gold": 1000
+    },
+    {
+      "ID": 21,
+      "Name": "skull1",
+      "Hp": 9500,
+      "Atk": 400,
+      "Def": 0,
+      "Exp": 100,
+      "Gold": 200
+    },
+    {
+      "ID": 22,
+      "Name": "skull2",
+      "Hp": 11500,
+      "Atk": 500,
+      "Def": 0,
+      "Exp": 150,
+      "Gold": 220
+    },
+    {
+      "ID": 23,
+      "Name": "skull3",
+      "Hp": 13500,
+      "Atk": 600,
+      "Def": 0,
+      "Exp": 200,
+      "Gold": 240
+    },
+    {
+      "ID": 24,
+      "Name": "skull4",
+      "Hp": 15500,
+      "Atk": 700,
+      "Def": 0,
+      "Exp": 250,
+      "Gold": 260
+    },
+    {
+      "ID": 25,
+      "Name": "skullking",
+      "Hp": 40000,
+      "Atk": 1500,
+      "Def": 300,
+      "Exp": 1000,
+      "Gold": 2000
+    },
+    {
+      "ID": null,
+      "Name": null,
+      "Hp": null,
+      "Atk": null,
+      "Def": null,
+      "Exp": "\\",
+      "Gold": null
+    }
+  ]
+}

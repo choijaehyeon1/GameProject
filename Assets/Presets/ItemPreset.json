@@ -1,0 +1,484 @@
+{
+  "data": [
+    {
+      "Kinds": "Weapon",
+      "ID": 1,
+      "Name": "철 검",
+      "Atk": 50,
+      "Def": 0,
+      "Health": 0,
+      "Buy": 500,
+      "Sell": 100
+    },
+    {
+      "Kinds": "Weapon",
+      "ID": 2,
+      "Name": "엔트킹의 검",
+      "Atk": 100,
+      "Def": 0,
+      "Health": 0,
+      "Buy": 0,
+      "Sell": 0
+    },
+    {
+      "Kinds": "Weapon",
+      "ID": 3,
+      "Name": "고블린킹의 검",
+      "Atk": 200,
+      "Def": 0,
+      "Health": 0,
+      "Buy": 0,
+      "Sell": 0
+    },
+    {
+      "Kinds": "Weapon",
+      "ID": 4,
+      "Name": "오크킹의 손도끼",
+      "Atk": 500,
+      "Def": 0,
+      "Health": 0,
+      "Buy": 0,
+      "Sell": 0
+    },
+    {
+      "Kinds": "Weapon",
+      "ID": 5,
+      "Name": "쉴드킹의 메이슨",
+      "Atk": 1000,
+      "Def": 0,
+      "Health": 0,
+      "Buy": 0,
+      "Sell": 0
+    },
+    {
+      "Kinds": "Weapon",
+      "ID": 6,
+      "Name": "스컬킹의 검",
+      "Atk": 2000,
+      "Def": 0,
+      "Health": 0,
+      "Buy": 0,
+      "Sell": 0
+    },
+    {
+      "Kinds": "Armor",
+      "ID": 7,
+      "Name": "가죽 갑옷",
+      "Atk": 0,
+      "Def": 5,
+      "Health": 0,
+      "Buy": 500,
+      "Sell": 100
+    },
+    {
+      "Kinds": "Armor",
+      "ID": 8,
+      "Name": "엔트킹의 갑옷",
+      "Atk": 0,
+      "Def": 10,
+      "Health": 0,
+      "Buy": 0,
+      "Sell": 0
+    },
+    {
+      "Kinds": "Armor",
+      "ID": 9,
+      "Name": "고블린킹의 갑옷",
+      "Atk": 0,
+      "Def": 20,
+      "Health": 0,
+      "Buy": 0,
+      "Sell": 0
+    },
+    {
+      "Kinds": "Armor",
+      "ID": 10,
+      "Name": "오크킹의 갑옷",
+      "Atk": 0,
+      "Def": 50,
+      "Health": 0,
+      "Buy": 0,
+      "Sell": 0
+    },
+    {
+      "Kinds": "Armor",
+      "ID": 11,
+      "Name": "쉴드킹의 갑옷",
+      "Atk": 0,
+      "Def": 100,
+      "Health": 0,
+      "Buy": 0,
+      "Sell": 0
+    },
+    {
+      "Kinds": "Armor",
+      "ID": 12,
+      "Name": "스컬킹의 갑옷",
+      "Atk": 0,
+      "Def": 200,
+      "Health": 0,
+      "Buy": 0,
+      "Sell": 0
+    },
+    {
+      "Kinds": "Helmet",
+      "ID": 13,
+      "Name": "가죽 모자",
+      "Atk": 0,
+      "Def": 0,
+      "Health": 100,
+      "Buy": 500,
+      "Sell": 100
+    },
+    {
+      "Kinds": "Helmet",
+      "ID": 14,
+      "Name": "엔트킹의 투구",
+      "Atk": 0,
+      "Def": 0,
+      "Health": 200,
+      "Buy": 0,
+      "Sell": 0
+    },
+    {
+      "Kinds": "Helmet",
+      "ID": 15,
+      "Name": "고블린킹의 투구",
+      "Atk": 0,
+      "Def": 0,
+      "Health": 400,
+      "Buy": 0,
+      "Sell": 0
+    },
+    {
+      "Kinds": "Helmet",
+      "ID": 16,
+      "Name": "오크킹의 투구",
+      "Atk": 0,
+      "Def": 0,
+      "Health": 800,
+      "Buy": 0,
+      "Sell": 0
+    },
+    {
+      "Kinds": "Helmet",
+      "ID": 17,
+      "Name": "쉴드킹의 투구",
+      "Atk": 0,
+      "Def": 0,
+      "Health": 1500,
+      "Buy": 0,
+      "Sell": 0
+    },
+    {
+      "Kinds": "Helmet",
+      "ID": 18,
+      "Name": "스컬킹의 투구",
+      "Atk": 0,
+      "Def": 0,
+      "Health": 3000,
+      "Buy": 0,
+      "Sell": 0
+    },
+    {
+      "Kinds": "Pants",
+      "ID": 19,
+      "Name": "가죽 바지",
+      "Atk": 0,
+      "Def": 5,
+      "Health": 0,
+      "Buy": 500,
+      "Sell": 100
+    },
+    {
+      "Kinds": "Pants",
+      "ID": 20,
+      "Name": "엔트킹의 펜츠",
+      "Atk": 0,
+      "Def": 10,
+      "Health": 0,
+      "Buy": 0,
+      "Sell": 0
+    },
+    {
+      "Kinds": "Pants",
+      "ID": 21,
+      "Name": "고블린킹의 펜츠",
+      "Atk": 0,
+      "Def": 20,
+      "Health": 0,
+      "Buy": 0,
+      "Sell": 0
+    },
+    {
+      "Kinds": "Pants",
+      "ID": 22,
+      "Name": "오크킹의 펜츠",
+      "Atk": 0,
+      "Def": 50,
+      "Health": 0,
+      "Buy": 0,
+      "Sell": 0
+    },
+    {
+      "Kinds": "Pants",
+      "ID": 23,
+      "Name": "쉴드킹의 펜츠",
+      "Atk": 0,
+      "Def": 100,
+      "Health": 0,
+      "Buy": 0,
+      "Sell": 0
+    },
+    {
+      "Kinds": "Pants",
+      "ID": 24,
+      "Name": "스컬킹의 펜츠",
+      "Atk": 0,
+      "Def": 200,
+      "Health": 0,
+      "Buy": 0,
+      "Sell": 0
+    },
+    {
+      "Kinds": "Shoes",
+      "ID": 25,
+      "Name": "가죽 신발",
+      "Atk": 0,
+      "Def": 0,
+      "Health": 100,
+      "Buy": 500,
+      "Sell": 100
+    },
+    {
+      "Kinds": "Shoes",
+      "ID": 26,
+      "Name": "엔트킹의 슈즈",
+      "Atk": 0,
+      "Def": 0,
+      "Health": 200,
+      "Buy": 0,
+      "Sell": 0
+    },
+    {
+      "Kinds": "Shoes",
+      "ID": 27,
+      "Name": "고블린킹의 슈즈",
+      "Atk": 0,
+      "Def": 0,
+      "Health": 400,
+      "Buy": 0,
+      "Sell": 0
+    },
+    {
+      "Kinds": "Shoes",
+      "ID": 28,
+      "Name": "오크킹의 슈즈",
+      "Atk": 0,
+      "Def": 0,
+      "Health": 800,
+      "Buy": 0,
+      "Sell": 0
+    },
+    {
+      "Kinds": "Shoes",
+      "ID": 29,
+      "Name": "쉴드킹의 슈즈",
+      "Atk": 0,
+      "Def": 0,
+      "Health": 1500,
+      "Buy": 0,
+      "Sell": 0
+    },
+    {
+      "Kinds": "Shoes",
+      "ID": 30,
+      "Name": "스컬킹의 슈즈",
+      "Atk": 0,
+      "Def": 0,
+      "Health": 3000,
+      "Buy": 0,
+      "Sell": 0
+    },
+    {
+      "Kinds": "Ring",
+      "ID": 31,
+      "Name": "엔트킹의 링",
+      "Atk": 10,
+      "Def": 10,
+      "Health": 10,
+      "Buy": 0,
+      "Sell": 0
+    },
+    {
+      "Kinds": "Ring",
+      "ID": 32,
+      "Name": "고블린킹의 링",
+      "Atk": 20,
+      "Def": 20,
+      "Health": 20,
+      "Buy": 0,
+      "Sell": 0
+    },
+    {
+      "Kinds": "Ring",
+      "ID": 33,
+      "Name": "오크킹의 링",
+      "Atk": 50,
+      "Def": 50,
+      "Health": 50,
+      "Buy": 0,
+      "Sell": 0
+    },
+    {
+      "Kinds": "Ring",
+      "ID": 34,
+      "Name": "쉴드킹의 링",
+      "Atk": 100,
+      "Def": 100,
+      "Health": 100,
+      "Buy": 0,
+      "Sell": 0
+    },
+    {
+      "Kinds": "Ring",
+      "ID": 35,
+      "Name": "스컬킹의 링",
+      "Atk": 200,
+      "Def": 200,
+      "Health": 200,
+      "Buy": 0,
+      "Sell": 0
+    },
+    {
+      "Kinds": "Use",
+      "ID": 36,
+      "Name": "최하급 포션",
+      "Atk": 0,
+      "Def": 0,
+      "Health": 50,
+      "Buy": 10,
+      "Sell": 1
+    },
+    {
+      "Kinds": "Use",
+      "ID": 37,
+      "Name": "하급 포션",
+      "Atk": 0,
+      "Def": 0,
+      "Health": 100,
+      "Buy": 50,
+      "Sell": 5
+    },
+    {
+      "Kinds": "Use",
+      "ID": 38,
+      "Name": "중급 포션",
+      "Atk": 0,
+      "Def": 0,
+      "Health": 250,
+      "Buy": 100,
+      "Sell": 10
+    },
+    {
+      "Kinds": "Use",
+      "ID": 39,
+      "Name": "상급 포션",
+      "Atk": 0,
+      "Def": 0,
+      "Health": 500,
+      "Buy": 500,
+      "Sell": 50
+    },
+    {
+      "Kinds": "Use",
+      "ID": 40,
+      "Name": "최상급 포션",
+      "Atk": 0,
+      "Def": 0,
+      "Health": 1000,
+      "Buy": 1000,
+      "Sell": 100
+    },
+    {
+      "Kinds": "Use",
+      "ID": 41,
+      "Name": "마을 귀환서",
+      "Atk": 0,
+      "Def": 0,
+      "Health": 0,
+      "Buy": 500,
+      "Sell": 50
+    },
+    {
+      "Kinds": "Etc",
+      "ID": 42,
+      "Name": "붉은 마석 조각",
+      "Atk": 0,
+      "Def": 0,
+      "Health": 0,
+      "Buy": 0,
+      "Sell": 1
+    },
+    {
+      "Kinds": "Etc",
+      "ID": 43,
+      "Name": "붉은 마석",
+      "Atk": 0,
+      "Def": 0,
+      "Health": 0,
+      "Buy": 0,
+      "Sell": 10
+    },
+    {
+      "Kinds": "Etc",
+      "ID": 44,
+      "Name": "엔트킹의 마석",
+      "Atk": 0,
+      "Def": 0,
+      "Health": 0,
+      "Buy": 0,
+      "Sell": 100
+    },
+    {
+      "Kinds": "Etc",
+      "ID": 45,
+      "Name": "고블린킹의 마석",
+      "Atk": 0,
+      "Def": 0,
+      "Health": 0,
+      "Buy": 0,
+      "Sell": 250
+    },
+    {
+      "Kinds": "Etc",
+      "ID": 46,
+      "Name": "오크킹의 마석",
+      "Atk": 0,
+      "Def": 0,
+      "Health": 0,
+      "Buy": 0,
+      "Sell": 500
+    },
+    {
+      "Kinds": "Etc",
+      "ID": 47,
+      "Name": "쉴드킹의 마석",
+      "Atk": 0,
+      "Def": 0,
+      "Health": 0,
+      "Buy": 0,
+      "Sell": 1000
+    },
+    {
+      "Kinds": "Etc",
+      "ID": 48,
+      "Name": "스컬킹의 마석",
+      "Atk": 0,
+      "Def": 0,
+      "Health": 0,
+      "Buy": 0,
+      "Sell": 1500
+    }
+  ]
+}
